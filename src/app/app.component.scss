@@ -1,0 +1,21 @@
+main {
+  flex: 1;
+  display: flex;
+  flex-flow: column;
+
+  img {
+    height: 30%;
+    width: 100%;
+    object-fit: cover;
+    align-self: center
+  }
+}
+.seperator {
+  height: 10px;
+  border: 1px solid gray;
+  display: inline-block;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+a { color: whitesmoke; }
+

@@ -1,0 +1,8 @@
+<app-list-container>
+  <app-list-item *ngFor="let threat of threats">
+    <details>
+      <summary>{{threat.name}}</summary>
+      <div class="definition"> {{threat.definition}} </div>
+    </details>
+  </app-list-item>
+</app-list-container>

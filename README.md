@@ -1,4 +1,7 @@
-# ThreatsApp
+# Threats App - Angular basics course 2019 @ Tikal
+
+Agenda: build your first app according to Angular's styleguide and best practices.
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.1.
 
